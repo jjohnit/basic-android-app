@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project1_Johnit_Jasan</string>
+    <string name="welcome_text">Welcome Johnit!</string>
+    <string name="button_1_text">Button 1</string>
+    <string name="button_2_text">Button 2</string>
+    <string name="enter_a_phone_number">Enter a phone number</string>
+    <string name="phone_example">(214) 991-5652</string>
+</resources>
